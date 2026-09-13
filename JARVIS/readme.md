@@ -24,6 +24,7 @@ JARVIS is a hands-free, voice-activated personal AI assistant. Say **"Hey Jarvis
 | 🔍 Web Search | News, research, price, compare modes — Gemini Grounded + DDG fallback |
 | 📂 File Management | Move, rename, read, summarize local files |
 | 💻 Code Helper | Inline code review, debugging, and generation |
+| 🌐 Multilingual | Understands and responds in English and Hindi |
 | 🌐 Browser Control | Open URLs, navigate tabs by voice |
 | 📨 Messaging | Send messages via WhatsApp, Telegram, and more |
 | 🎬 YouTube Control | Search, play, and control YouTube by voice |
